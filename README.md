@@ -239,8 +239,6 @@ Make sure the library is available on the Pico before running `main.py`.
 
 Open `main.py` and replace the placeholder values with your local Wi-Fi and HiveMQ credentials.
 
-**Do not push the modified file containing real credentials to GitHub.**
-
 ### 4. Upload the files
 
 Copy these files to the Pico:
