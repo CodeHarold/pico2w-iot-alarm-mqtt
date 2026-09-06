@@ -1,0 +1,1 @@
+# Local/private configuration files\nsecrets.py\nconfig.py\n.env\n*.secret\n
